@@ -4,7 +4,7 @@ Hi 👋 My name is Jino John
 UI Designer & Web Developer
 ---------------------------
 
-I've been learning coding for 4 years. I started my journey with C++ language. Gradually I became acquainted with Python, C, Git, Java Script. I perform Designing, not limited to UI. I am proficient in creating wireframes and prototypes for Android Applications and Websites.
+I've been learning coding for 5 years. I started my journey with C++ language. Gradually I became acquainted with Python, C, Git, Java Script. I perform Designing, not limited to UI. I am proficient in creating wireframes and prototypes for Android Applications and Websites.
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [jinomanoj3@gmail.com](mailto:jinomanoj3@gmail.com)
