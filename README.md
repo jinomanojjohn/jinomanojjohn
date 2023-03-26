@@ -10,10 +10,10 @@ I've been learning coding for 5 years. I started my journey with C++ language. G
 * ✉️  You can contact me at [jinomanoj3@gmail.com](mailto:jinomanoj3@gmail.com)
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Front-End Designing
-* 🧠  Some of my Live Projects:-
-**    * www.digifygarden.com
-      * www.alameenvoyage.com
-      * www.aisspace.com ** 
+* 🧠  Some of my Live Projects:-  **
+* [DigifyGarden](https://www.digifygarden.com/)
+* [Al-Ameen Voyage](https://www.alameenvoyage.com/)
+* [GitHub Pages](https://www.aisspace.com/)** 
 
 ### Skills
 
