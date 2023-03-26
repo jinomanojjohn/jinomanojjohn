@@ -13,7 +13,7 @@ I've been learning coding for 5 years. I started my journey with C++ language. G
 * 🧠  Some of my Live Projects:-
 * [DigifyGarden](https://www.digifygarden.com/)
 * [Al-Ameen Voyage](https://www.alameenvoyage.com/)
-* [GitHub Pages](https://www.aisspace.com/)
+* [AIS Space](https://www.aisspace.com/)
 
 ### Skills
 
