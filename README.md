@@ -4,11 +4,11 @@ Hi 👋 My name is Jino John
 UI Designer & Web Developer
 ---------------------------
 
-I've been learning coding for 5 years. I started my journey with C++ language. Gradually I became acquainted with Python, C, Git, Java Script. I perform Designing, not limited to UI. I am proficient in creating wireframes and prototypes for Android Applications and Websites.
+I'm a self-taught developer with 5+ years of experience in coding. I started my journey with C++ and gradually became acquainted with Python, C, Git, and JavaScript. I enjoy designing, with a focus on UI, and I'm proficient in creating wireframes and prototypes for Android applications and websites.
 
 * 🌍  I'm based in Kerala, India
 * ✉️  You can contact me at [jinomanoj3@gmail.com](mailto:jinomanoj3@gmail.com)
-* 🧠  I'm learning Flutter, Python Flask
+* 🧠  I'm learning Flutter and Python Flask
 * 🤝  I'm open to collaborating on Front-End Designing
 * 🧠  Some of my Live Projects:-
   * [DigifyGarden](https://www.digifygarden.com/)
