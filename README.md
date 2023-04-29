@@ -10,10 +10,14 @@ I'm a self-taught developer with 5+ years of experience in coding. I started my 
 * ✉️  You can contact me at [jinomanoj3@gmail.com](mailto:jinomanoj3@gmail.com)
 * 🧠  I'm learning Flutter and Python Flask
 * 🤝  I'm open to collaborating on Front-End Designing
-* 🧠  Some of my Live Projects:-
-  * [DigifyGarden](https://www.digifygarden.com/)
-  * [Al-Ameen Voyage](https://www.alameenvoyage.com/)
-  * [AIS Space](https://www.aisspace.com/)
+
+
+### Live Projects
+
+Here are ssome of my live projects:-
+* [DigifyGarden](https://www.digifygarden.com/)
+* [Al-Ameen Voyage](https://www.alameenvoyage.com/)
+* [AIS Space](https://www.aisspace.com/)
 
 ### Skills
 
