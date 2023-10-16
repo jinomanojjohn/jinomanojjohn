@@ -40,7 +40,7 @@ Here are ssome of my live projects:-
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/jinomanojjohn" target="_blank" rel="noreferrer">
-  <img style="background-color⚪" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
   <a href="https://www.dev.to/jinomanojjohn" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
   <a href="https://discord.com/users/VisonDelta#5046" target="_blank" rel="noreferrer">
