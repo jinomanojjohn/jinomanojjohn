@@ -14,10 +14,12 @@ I'm a self-taught developer with 5+ years of experience in coding. I started my 
 
 ### Live Projects
 
-Here are ssome of my live projects:-
+Here are some of my live projects:-
 * [DigifyGarden](https://www.digifygarden.com/)
 * [Al-Ameen Voyage](https://www.alameenvoyage.com/)
 * [AIS Space](https://www.aisspace.com/)
+* [Olickal Battery Shop (OBS)](https://www.olickalbattery.shop/)
+* [Smart X3 Solutions](https://www.smartx3solutions.com/)
 
 ### Skills
 
