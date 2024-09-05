@@ -6,7 +6,7 @@ UI Designer & Web Developer
 
 I'm a self-taught developer with 5+ years of experience in coding. I started my journey with C++ and gradually became acquainted with Python, C, Git, and JavaScript. I enjoy designing, with a focus on UI, and I'm proficient in creating wireframes and prototypes for Android applications and websites.
 
-* 🌍  I'm based in Kerala, India
+* 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [jinomanoj3@gmail.com](mailto:jinomanoj3@gmail.com)
 * 🧠  I'm learning Flutter and Python Flask
 * 🤝  I'm open to collaborating on Front-End Designing
