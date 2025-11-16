@@ -1,14 +1,14 @@
-Hi 👋 My name is Jino John
+Hi 👋 My name is Jino Manoj John
 ==========================
 
-UI Designer & Web Developer
+SAP ABAP Developer, UI Designer & Web Developer
 ---------------------------
 
-I'm a self-taught developer with 5+ years of experience in coding. I started my journey with C++ and gradually became acquainted with Python, C, Git, and JavaScript. I enjoy designing, with a focus on UI, and I'm proficient in creating wireframes and prototypes for Android applications and websites.
+I am a self-taught developer with over 5 years of experience, beginning my journey with C++ and expanding into Python, C, Git, and JavaScript. I have a strong interest in UI design and am proficient in crafting wireframes and prototypes for Android applications and websites. I also specialize in SAP ABAP.
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [jinomanoj3@gmail.com](mailto:jinomanoj3@gmail.com)
-* 🧠  I'm learning Flutter and Python Flask
+* 🧠  I'm learning and working on SAP ABAP projects
 * 🤝  I'm open to collaborating on Front-End Designing
 
 
