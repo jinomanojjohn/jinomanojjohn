@@ -1,14 +1,14 @@
 Hi 👋 My name is Jino Manoj John
 ==========================
 
-SAP ABAP Developer, UI Designer & Web Developer
+SAP BODS Developer, UI Designer & Full Stack Developer
 ---------------------------
 
 I am a self-taught developer with over 5 years of experience, beginning my journey with C++ and expanding into Python, C, Git, and JavaScript. I have a strong interest in UI design and am proficient in crafting wireframes and prototypes for Android applications and websites. I also specialize in SAP ABAP.
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [jinomanoj3@gmail.com](mailto:jinomanoj3@gmail.com)
-* 🧠  I'm learning and working on SAP ABAP projects
+* 🧠  I'm learning and working on SAP BODS projects
 * 🤝  I'm open to collaborating on Front-End Designing
 
 
